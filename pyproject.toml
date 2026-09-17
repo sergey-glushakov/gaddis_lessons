@@ -1,0 +1,10 @@
+[project]
+name = "gaddis-lessons"
+version = "0.1.0"
+description = "Backend Trainee: Gaddis lessons and game automation track"
+readme = "README.md"
+requires-python = "==3.12.*"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
